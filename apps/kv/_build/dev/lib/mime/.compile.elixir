@@ -1,0 +1,9 @@
+v2.
+{<<"c:/Users/yseino/src/github.com/y-jono/kv/_build/dev/lib/mime/ebin/Elixir.MIME.beam">>,
+ 'Elixir.MIME',module,<<"lib/mime.ex">>,
+ ['Elixir.Path',erlang,'Elixir.Module','Elixir.String','Elixir.String.Chars',
+  'Elixir.Enum','Elixir.File','Elixir.List','Elixir.Kernel',
+  'Elixir.Application','Elixir.Kernel.Typespec'],
+ [],
+ [<<"lib/mime.types">>],
+ nil}.
